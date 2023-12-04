@@ -140,6 +140,3 @@
 <ul>
 <li>By email: snrstorecontact@gmail.com</li>
 </ul>
-apps-fileview.texmex_20231109.01_p2
-snd_software_privacy_policy.html
-Displaying snd_software_privacy_policy.html.
